@@ -71,35 +71,47 @@
     ],
     "flick_head": [
       {
-        "file": "wedding.mtn"
-      },
-      {
-        "file": "login.mtn"
+        "file": "wedding.mtn",
+        "sound": "snd/M4_SOPMOD_IIMod_SOULCONTRACT_JP.wav",
+        "text": "嘻嘻嘻嘻……我可是等了很久呢，现在您不得不承认，我们是一路的货色了吧？\r{$br}请再抱紧我一点吧，连同我的一切，再抱紧一点……"
       }
     ],
     "tap_body": [
       {
-        "file": "touch_1.mtn"
+        "file": "touch_1.mtn",
+        "text": "指挥官，我的新工艺品怎么样？无论收集还是制作都很辛苦呢，不过我们都是乐在其中啊，嘿嘿……"
       },
       {
-        "file": "touch_2.mtn"
+        "file": "touch_2.mtn",
+        "sound": "snd/M4_SOPMOD_IIMod_DIALOGUE3_JP.wav",
+        "text": "呜哈哈~想和我玩吗？那我就不客气啦！~"
       },
       {
-        "file": "touch_3.mtn"
+        "file": "touch_3.mtn",
+        "sound": "snd/M4_SOPMOD_IIMod_SKILL3_JP.wav",
+        "text": "砰！砰！砰！全部都坏掉吧！~哈哈哈哈~"
       },
       {
-        "file": "touch_4.mtn"
+        "file": "touch_4.mtn",
+        "sound": "snd/M4_SOPMOD_IIMod_DIALOGUE2_JP.wav",
+        "text": "控制情绪什么的我是不太懂啦，大家尽情地开心不就很好了吗？"
       },
       {
-        "file": "touch_5.mtn"
-      },
-      {
-        "file": "wedding_touch.mtn"
+        "file": "touch_5.mtn",
+        "sound": "snd/M4_SOPMOD_IIMod_GOATTACK_JP.wav",
+        "text": "嘻哈哈哈！狂欢开始了！"
       }
     ],
     "shake": [
       {
         "file": "shake.mtn"
+      }
+    ],
+    "start": [
+      {
+        "file": "login.mtn",
+        "sound": "snd/M4_SOPMOD_IIMod_HELLO_JP.wav",
+        "text": "呜啊——指挥官你来啦！快点快点，开始新一轮作战吧！"
       }
     ]
   },
